@@ -1,5 +1,3 @@
-Absolutely! Here's a more detailed breakdown of the tasks for Day 1:
-
 ### Day 1: Introduction to JavaScript
 
 #### Task 1: Setting Up
