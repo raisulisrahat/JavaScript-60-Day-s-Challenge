@@ -31,7 +31,8 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 1 | 02-11-2023 | Introduction to JavaScript | Complete | [Link](./Day_1/) |
 | 2 | 03-11-2023 | Variables and Data Types | Complete | [Link](./Day_2/) |
 | 3 | 04-11-2023 | Basic Operators and Operations | Complete | [Link](./Day_3/) |
-| 3 | 05-11-2023 | If Statements in JavaScript | Complete | [Link](./Day_4/) |
+| 4 | 05-11-2023 | If Statements in JavaScript | Complete | [Link](./Day_4/) |
+| 5 | 06-11-2023 | Loops in JavaScript | Complete | [Link](./Day_5/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 60 | Date | Problem Statement | Status | [Link](#) |
