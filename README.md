@@ -34,6 +34,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 4 | 05-11-2023 | If Statements in JavaScript | Complete | [Link](./Day_4/) |
 | 5 | 06-11-2023 | Loops in JavaScript | Complete | [Link](./Day_5/) |
 | 6 | 07-11-2023 | Types of Functions | Complete | [Link](./Day_6/) |
+| 7 | 08-11-2023 | Types of Scope | Complete | [Link](./Day_7/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 60 | Date | Problem Statement | Status | [Link](#) |
