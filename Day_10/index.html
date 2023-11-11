@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DOM Manipulation Example</title>
+  <style>
+    /* Define a style for the element */
+    #example {
+      color: blue;
+      font-size: 16px;
+    }
+    .new-class {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<!-- HTML content with an ID of "example" -->
+<div id="example">Original Content</div>
+
+<script>
+  // JavaScript to manipulate the DOM
+
+  // Changing Element Content
+  let element = document.getElementById('example');
+  element.innerHTML = 'New content';
+
+  // Modifying CSS Properties
+  element.style.color = 'red';
+  element.style.fontSize = '20px';
+
+  // Adding a new class
+  element.classList.add('new-class');
+</script>
+
+</body>
+</html>

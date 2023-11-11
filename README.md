@@ -37,6 +37,7 @@ Below is a table that I will use to track my progress throughout this journey. I
 | 7 | 08-11-2023 | Types of Scope | Complete | [Link](./Day_7/) |
 | 8 | 09-11-2023 | Introduction to the DOM | Complete | [Link](./Day_8/) |
 | 9 | 10-11-2023 | DOM Navigation and Traversal | Complete | [Link](./Day_9/) |
+| 10 | 11-11-2023 | Manipulating DOM Elements | Complete | [Link](./Day_10/) |
 | . | .    | .                 | .      | .    |
 | . | .    | .                 | .      | .    |
 | 60 | Date | Problem Statement | Status | [Link](#) |
